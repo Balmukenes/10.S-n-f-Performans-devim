@@ -1,0 +1,13 @@
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\bin\Debug\Performans Eşleştirme Uygulaması.exe.config
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\bin\Debug\Performans Eşleştirme Uygulaması.exe
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\bin\Debug\Performans Eşleştirme Uygulaması.pdb
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans Eşleştirme Uygulaması.csproj.AssemblyReference.cache
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans Eşleştirme Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans_Eşleştirme_Uygulaması.Properties.Resources.resources
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans Eşleştirme Uygulaması.csproj.GenerateResource.cache
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans Eşleştirme Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans Eşleştirme Uygulaması.exe
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans Eşleştirme Uygulaması.pdb
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans_Eşleştirme_Uygulaması.Eşleştirme.resources
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans_Eşleştirme_Uygulaması.Giris.resources
+C:\Users\enesp\source\repos\Performans Eşleştirme Uygulaması\Performans Eşleştirme Uygulaması\obj\Debug\Performans_Eşleştirme_Uygulaması.Form1.resources
